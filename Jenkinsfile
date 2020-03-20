@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('Build') {
             when {
-                branch "pureport/*"
+                branch "pureport/**"
             }
             steps {
                 script {
