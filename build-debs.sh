@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-EXTRA_VERSION="-pureport1"
+EXTRA_VERSION="-pureport2"
 DEBIAN_FRONTEND=noninteractive
 
 # Make read-write copy of source code
